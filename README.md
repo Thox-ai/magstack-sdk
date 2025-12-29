@@ -290,7 +290,6 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - **Documentation**: [thox.ai/docs/magstack-sdk](https://thox.ai/docs/magstack-sdk)
 - **Issues**: [GitHub Issues](https://github.com/Thox-ai/magstack-sdk/issues)
 - **Email**: developers@thox.ai
-- **Discord**: [discord.gg/thoxai](https://discord.gg/thoxai)
 
 ## License
 
