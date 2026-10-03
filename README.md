@@ -1,13 +1,39 @@
-<!-- thox-badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square&labelColor=09090b)](LICENSE)
-[![THOX.ai](https://img.shields.io/badge/THOX.ai-portfolio-0a0a0a?style=flat-square&labelColor=09090b)](https://thox.ai)
-[![Status](https://img.shields.io/badge/status-coming%20soon-9b59b6?style=flat-square&labelColor=09090b)](https://github.com/Thox-ai/magstack-sdk)
-[![Release](https://img.shields.io/github/v/release/Thox-ai/magstack-sdk?style=flat-square&labelColor=09090b&logo=github)](https://github.com/Thox-ai/magstack-sdk/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/Thox-ai/magstack-sdk?style=flat-square&labelColor=09090b)](https://github.com/Thox-ai/magstack-sdk/commits/main)
-[![Issues](https://img.shields.io/github/issues/Thox-ai/magstack-sdk?style=flat-square&labelColor=09090b)](https://github.com/Thox-ai/magstack-sdk/issues)
-<!-- /thox-badges -->
-
 # MagStack SDK
+
+[![License](https://img.shields.io/badge/license-MIT-171719)](LICENSE)
+![Visibility](https://img.shields.io/badge/visibility-public-171719)
+![Status](https://img.shields.io/badge/status-coming%20soon-9b59b6)
+[![Prerelease](https://img.shields.io/badge/prerelease-v0.1.0--preview-B7791F)](https://github.com/Thox-ai/magstack-sdk/releases/tag/v0.1.0-preview)
+
+**THOX.ai LLC. Your AI. Your Data. Your Rules.**
+
+## Description
+
+MagStack SDK - official SDK for MagStack magnetic clustering technology (cluster fabric: data-parallel + task-parallel). It is the specification overview for that SDK. It is not a stable 1.0, not a general-availability release, and not the thox.ai website.
+
+The GitHub About text continues: "Coming soon alongside the THOX Nova device launch." That status stays **coming soon**.
+
+## Releases
+
+No stable release. `GET /repos/Thox-ai/magstack-sdk/releases/latest` returned 404 on 2026-10-03. That 404 is not "no release". The only published release is a prerelease.
+
+**Newest published prerelease:** [v0.1.0-preview](https://github.com/Thox-ai/magstack-sdk/releases/tag/v0.1.0-preview) (2026-07-06, 9:13 AM CT, prerelease, not stable, not GA).
+
+Release name: `magstack-sdk v0.1.0-preview`. The roadmap row "1.0 / Production-ready stable release" is still a future phase. This README does not create a release and does not promote `v0.1.0-preview` to stable.
+
+## Agent handoffs
+
+**No handoff file in this repo yet.**
+
+`HANDOFF.md`, `handoffs/`, and `AGENTS.md` are not at the repo root. A search of [`ttracx/thox-handoffs`](https://github.com/ttracx/thox-handoffs) on 2026-10-03 did not find a named lane file for this repo. This README does not create one. [docs/README.md](docs/README.md) is repository documentation, not a root handoff.
+
+## Instructions
+
+**Instructions not recorded in this repo yet.**
+
+[CONTRIBUTING.md](CONTRIBUTING.md) says to run the test suite and does not name a command. This README says client libraries, `magstackd`, firmware, and protocol source are not in the tree yet, and packages are not published to npm or PyPI. This sweep does not add an install command.
+
+This README edit does not create a release and does not publish thox.ai.
 
 Official SDK for MagStack magnetic clustering technology, by Thox.ai LLC.
 
